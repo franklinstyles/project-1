@@ -29,7 +29,16 @@ This project demonstrates a simple product listing page using HTML, CSS, and Jav
 4. styles.css.
 
 ## What does the project do?
+
  - so this project dpesnt actually do alot but when you click the add to cart button(the green one) you will be able to add the product to your cart.<br>
  - dispalys the products in form of cards and it allows you to like the picture.
+ - when you click the fav button it shows an alert that you have added it to your favorites, when you click it again it will show removed from favorites.
+ - it is very simple and easy to use.
+
+## Author
+  - Franklin Ndegwa.
+
+## Date
+  - 18-7-2024  
 
 
