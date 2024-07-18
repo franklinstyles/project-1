@@ -88,7 +88,7 @@ body {
     .product.card {
         width: 120px; 
     }
-   .product .card_btn.fav:hover {
+   .product .card_btn.fav {
     color: grey; 
     }
     .product.card_btn.fav:active {

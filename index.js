@@ -83,8 +83,14 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function toggleFavorite(button, productId) {
-        button.classList.toggle('active'); 
+        button.classList.toggle('active');
+        if (button.classList.contains('active')) {
+            alert('Added to favorites!');
+        } else {
+            alert('Removed from favorites!');
+        }
         console.log('Toggled favorite status for product with ID ' + productId);
+        console.log('Button classes:', button.className); 
     }
 
     fetchProducts();
