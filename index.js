@@ -1,4 +1,4 @@
-const url = "http://localhost:3001/products";
+const url = "https://project-ten-beta-71.vercel.app/products";
 
 document.addEventListener('DOMContentLoaded', function() {
     const productContainer = document.querySelector('.popular-products');
